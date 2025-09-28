@@ -1,0 +1,45 @@
+{
+  "Index": {
+    "title": "El generador de códigos de barras gratuito es una herramienta en línea que permite a los usuarios crear fácilmente diferentes formatos de códigos de barras y códigos QR. Admite múltiples tipos de codificación y permite a los usuarios generar códigos de barras en tiempo real y en lotes, completamente gratis."
+  },
+  "Barcode": {
+    "title": "Generador de Código de Barras {type} Gratis",
+    "input": {
+      "title": "Valores de código de barras (uno por línea)"
+    },
+    "options": {
+      "name": "Opciones",
+      "code-format": "Formato del código",
+      "show-text": "Mostrar texto",
+      "show-yes": "Sí",
+      "show-no": "No",
+      "barcode-length": "Longitud del código de barras (mm)",
+      "barcode-height": "Altura del código de barras (mm)",
+      "locked-aspect-ratio": "Relación de aspecto bloqueada",
+      "barcode-margin": "Margen del código de barras (mm)"
+    },
+    "select-format": {
+      "name": "Seleccionar formato de código de barras",
+      "search-placeholder": "Ingrese el formato de código de barras..."
+    },
+    "output": {
+      "title": "Salida"
+    },
+    "layout": {
+      "name": "Diseño de impresión",
+      "1x2": "Imprimir 1 columna",
+      "2x3": "Imprimir 2 columnas",
+      "3x4": "Imprimir 3 columnas",
+      "4x5": "Imprimir 4 columnas"
+    }
+  },
+  "scroll": {
+    "to-top": "Volver arriba",
+    "setting": "Ajustar velocidad de desplazamiento",
+    "start-scroll": "Iniciar desplazamiento",
+    "pause-scroll": "Pausar desplazamiento"
+  },
+  "content": {
+    "faq": "# Preguntas Frecuentes del Generador de Códigos de Barras Gratuito\n\n## 1. ¿Qué es el Generador de Códigos de Barras Gratuito?\n\nEl Generador de Códigos de Barras Gratuito es una herramienta en línea de código abierto que permite a los usuarios crear fácilmente varios formatos de códigos de barras unidimensionales. Admite múltiples tipos de codificación y permite a los usuarios generar códigos de barras en tiempo real y en masa, de forma totalmente gratuita.\n\n## 2. ¿Cómo se usa este generador de códigos de barras?\n\nEl uso es muy sencillo:\n- Ingrese el contenido que desea codificar en el cuadro de entrada, con cada línea correspondiente a un código de barras.\n- Use las pestañas para cambiar entre diferentes tipos de codificación (como Code128, EAN / UPC, Code39, ITF, MSI Plessey, Pharmacode, Codabar).\n- Seleccione el formato de codificación y el estilo del código de barras en las opciones.\n- El sistema generará el código de barras correspondiente en tiempo real.\n\n## 3. ¿Qué tipos de códigos de barras admite esta herramienta?\n\nNuestra herramienta admite varios formatos comunes de códigos de barras, incluyendo:\n- Code128 (incluyendo Code128A, Code128B, Code128C, GS1-128)\n- EAN / UPC (incluyendo EAN-13, EAN-8, EAN-5, EAN-2, UPC-A, UPC-E)\n- Code39 (incluyendo Code39, Code39 Extended)\n- ITF (incluyendo ITF-14)\n- MSI Plessey (incluyendo Mod 10, Mod 11, Mod 1010, Mod 1110)\n- Pharmacode\n- Codabar\n- GS1 DataBar (incluyendo Omnidirectional, Limited, Expanded, Stacked)\n- Publishing (incluyendo ISBN, ISMN, ISSN)\n\nFormatos de códigos de barras 2D, incluyendo:\n- Código QR\n- Data Matrix\n- PDF417\n- Código Aztec\n\n## 4. ¿Puedo generar múltiples códigos de barras a la vez?\n\nSí, esta herramienta admite la generación en masa. Solo necesita ingresar un contenido de código de barras por línea en el cuadro de entrada, y el sistema generará un código de barras correspondiente para cada línea. Para los códigos de barras generados en masa, puede hacer clic en el botón \"Iniciar desplazamiento\" en la esquina inferior derecha, y la página se desplazará automáticamente para mostrar todos los códigos de barras generados. También puede usar el botón de configuración debajo para ajustar la velocidad de desplazamiento.\n\n## 5. ¿Puedo personalizar el estilo de los códigos de barras generados?\n\nSí. En la sección de opciones, puede ajustar los siguientes parámetros:\n- Formato de codificación\n- Si mostrar texto (Sí/No)\n- Longitud del código de barras (mm)\n- Altura del código de barras (mm)\n\n## 6. ¿Cómo puedo descargar o guardar los códigos de barras generados?\n\nPuede descargar o guardar los códigos de barras de las siguientes maneras:\n- Haga clic en el botón de descarga sobre el cuadro de salida para elegir descargar en formato PNG, JPG, GIF o SVG.\n- Si solo se genera una imagen de código de barras, se descargará directamente.\n- Si se generan múltiples imágenes de códigos de barras, el sistema empaquetará todas las imágenes en un archivo ZIP para su descarga.\n\n## 7. ¿Puedo obtener enlaces a los códigos de barras?\n\nSí, puede obtener dos tipos de enlaces:\n1. Enlace de imagen del código de barras: Haga clic en el botón \"Copiar enlace del código de barras\" para copiar, en el formato:\n   https://barcodediy.com/api/barcode/Code128/ABC-abc-1234\n2. Enlace de la página actual: Haga clic en el botón \"Enlace a esta página\" para copiar, en el formato:\n   https://barcodediy.com/en/Code128?data=ABC-abc-1234\n\nEstos enlaces se pueden compartir o incrustar fácilmente en otras aplicaciones.\n\n## 8. ¿Son legalmente válidos los códigos de barras generados por esta herramienta?\n\nLos códigos de barras generados por nuestra herramienta son técnicamente precisos, pero su validez legal depende de su uso previsto y las regulaciones relevantes. Si necesita usarlos para fines comerciales, recomendamos consultar los estándares de la industria y los requisitos legales pertinentes.\n\n## 9. ¿Cuál es la calidad de los códigos de barras generados? ¿Son adecuados para imprimir?\n\nLos códigos de barras generados por nuestra herramienta tienen una resolución de alta calidad y son completamente adecuados para la impresión. Sin embargo, recomendamos realizar pruebas a pequeña escala antes del uso formal a gran escala para asegurarse de que se puedan escanear y reconocer normalmente en sus escenarios de aplicación específicos.\n\n## 10. ¿Puedo usar esta herramienta en dispositivos móviles?\n\nSí, nuestro generador de códigos de barras está basado en la web y es compatible con varios dispositivos. Ya sea que esté usando una computadora, una tableta o un teléfono inteligente, puede acceder y usar fácilmente esta herramienta."
+  }
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://barcodediy.com
+
+# Sitemaps
+Sitemap: https://barcodediy.com/sitemap.xml

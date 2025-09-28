@@ -1,0 +1,45 @@
+{
+  "Index": {
+    "title": "Le générateur de codes-barres gratuit est un outil en ligne qui permet aux utilisateurs de créer facilement différents formats de codes-barres et de QR codes. Il prend en charge plusieurs types d'encodage et permet aux utilisateurs de générer des codes-barres en temps réel et en masse, totalement gratuitement."
+  },
+  "Barcode": {
+    "title": "Générateur de Code-Barres {type} Gratuit",
+    "input": {
+      "title": "Valeurs de code-barres (une par ligne)"
+    },
+    "options": {
+      "name": "Options",
+      "code-format": "Format du code",
+      "show-text": "Afficher le texte",
+      "show-yes": "Oui",
+      "show-no": "Non",
+      "barcode-length": "Longueur du code-barres (mm)",
+      "barcode-height": "Hauteur du code-barres (mm)",
+      "locked-aspect-ratio": "Rapport d’aspect verrouillé",
+      "barcode-margin": "Marge du code-barres (mm)"
+    },
+    "select-format": {
+      "name": "Sélectionner le format de code-barres",
+      "search-placeholder": "Entrez le format de code-barres..."
+    },
+    "output": {
+      "title": "Sortie"
+    },
+    "layout": {
+      "name": "Mise en page d'impression",
+      "1x2": "Imprimer 1 colonne",
+      "2x3": "Imprimer 2 colonnes",
+      "3x4": "Imprimer 3 colonnes",
+      "4x5": "Imprimer 4 colonnes"
+    }
+  },
+  "scroll": {
+    "to-top": "Retour en haut",
+    "setting": "Régler la vitesse de défilement",
+    "start-scroll": "Commencer le défilement",
+    "pause-scroll": "Mettre en pause le défilement"
+  },
+  "content": {
+    "faq": "# FAQ du Générateur de Codes-barres Gratuit\n\n## 1. Qu'est-ce que le Générateur de Codes-barres Gratuit ?\n\nLe Générateur de Codes-barres Gratuit est un outil en ligne open-source qui permet aux utilisateurs de créer facilement divers formats de codes-barres unidimensionnels. Il prend en charge plusieurs types d'encodage et permet aux utilisateurs de générer des codes-barres en temps réel et en masse, totalement gratuitement.\n\n## 2. Comment utiliser ce générateur de codes-barres ?\n\nL'utilisation est très simple :\n- Entrez le contenu que vous souhaitez encoder dans la zone de saisie, chaque ligne correspondant à un code-barres.\n- Utilisez les onglets pour basculer entre les différents types d'encodage (comme Code128, EAN / UPC, Code39, ITF, MSI Plessey, Pharmacode, Codabar).\n- Sélectionnez le format d'encodage et le style du code-barres dans les options.\n- Le système générera le code-barres correspondant en temps réel.\n\n## 3. Quels types de codes-barres cet outil prend-il en charge ?\n\nNotre outil prend en charge divers formats de codes-barres courants, notamment :\n- Code128 (y compris Code128A, Code128B, Code128C, GS1-128)\n- EAN / UPC (y compris EAN-13, EAN-8, EAN-5, EAN-2, UPC-A, UPC-E)\n- Code39 (y compris Code39, Code39 Extended)\n- ITF (y compris ITF-14)\n- MSI Plessey (y compris Mod 10, Mod 11, Mod 1010, Mod 1110)\n- Pharmacode\n- Codabar\n- GS1 DataBar (y compris Omnidirectional, Limited, Expanded, Stacked)\n- Publishing (y compris ISBN, ISMN, ISSN)\n\nFormats de codes-barres 2D, notamment :\n- Code QR\n- Data Matrix\n- PDF417\n- Code Aztec\n\n## 4. Puis-je générer plusieurs codes-barres à la fois ?\n\nOui, cet outil prend en charge la génération en masse. Il vous suffit d'entrer un contenu de code-barres par ligne dans la zone de saisie, et le système générera un code-barres correspondant pour chaque ligne. Pour les codes-barres générés en masse, vous pouvez cliquer sur le bouton \"Commencer le défilement\" dans le coin inférieur droit, et la page défilera automatiquement pour afficher tous les codes-barres générés. Vous pouvez également utiliser le bouton de paramètres ci-dessous pour ajuster la vitesse de défilement.\n\n## 5. Puis-je personnaliser le style des codes-barres générés ?\n\nOui. Dans la section des options, vous pouvez ajuster les paramètres suivants :\n- Format d'encodage\n- Affichage du texte (Oui/Non)\n- Longueur du code-barres (mm)\n- Hauteur du code-barres (mm)\n\n## 6. Comment télécharger ou enregistrer les codes-barres générés ?\n\nVous pouvez télécharger ou enregistrer les codes-barres de la manière suivante :\n- Cliquez sur le bouton de téléchargement au-dessus de la zone de sortie pour choisir de télécharger au format PNG, JPG, GIF ou SVG.\n- Si une seule image de code-barres est générée, elle sera téléchargée directement.\n- Si plusieurs images de codes-barres sont générées, le système les regroupera dans un fichier ZIP pour le téléchargement.\n\n## 7. Puis-je obtenir des liens vers les codes-barres ?\n\nOui, vous pouvez obtenir deux types de liens :\n1. Lien de l'image du code-barres : Cliquez sur le bouton \"Copier le lien du code-barres\" pour copier, au format :\n   https://barcodediy.com/api/barcode/Code128/ABC-abc-1234\n2. Lien de la page actuelle : Cliquez sur le bouton \"Lien vers cette page\" pour copier, au format :\n   https://barcodediy.com/en/Code128?data=ABC-abc-1234\n\nCes liens peuvent être facilement partagés ou intégrés dans d'autres applications.\n\n## 8. Les codes-barres générés par cet outil sont-ils légalement valides ?\n\nLes codes-barres générés par notre outil sont techniquement précis, mais leur validité légale dépend de votre utilisation prévue et des réglementations pertinentes. Si vous avez besoin de les utiliser à des fins commerciales, nous vous recommandons de consulter les normes de l'industrie et les exigences légales pertinentes.\n\n## 9. Quelle est la qualité des codes-barres générés ? Conviennent-ils à l'impression ?\n\nLes codes-barres générés par notre outil ont une résolution de haute qualité et conviennent parfaitement à l'impression. Cependant, nous recommandons d'effectuer des tests à petite échelle avant une utilisation formelle à grande échelle pour s'assurer qu'ils peuvent être scannés et reconnus normalement dans vos scénarios d'application spécifiques.\n\n## 10. Puis-je utiliser cet outil sur des appareils mobiles ?\n\nOui, notre générateur de codes-barres est basé sur le web et compatible avec divers appareils. Que vous utilisiez un ordinateur, une tablette ou un smartphone, vous pouvez facilement accéder et utiliser cet outil."
+  }
+}
