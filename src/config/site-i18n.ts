@@ -13,7 +13,7 @@ type SiteConfig = {
 
 const siteConfigBase: Record<Locale, SiteConfig> = {
   en: {
-    name: 'Free Online Barcode Generator',
+    name: 'Free Online Barcode Generator | BarcodeDIY.com',
     description:
       'Free Barcode Generator is an online tool that allows users to easily create various formats of barcodes and QR codes. It supports multiple encoding types and enables users to generate barcodes in real-time and in bulk, completely free of charge.',
   },
