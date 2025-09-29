@@ -4,8 +4,6 @@
 
 Barcode Generator is a free, open-source tool that allows users to easily create various formats of one-dimensional barcodes. It supports multiple encoding types and enables users to generate barcodes in real-time and in bulk, completely free of charge.
 
-This project is based on the [next-shadcn-intl-template](https://github.com/LeonZeng919/next-shadcn-intl-template).
-
 Live demo: [https://barcodediy.com](https://barcodediy.com)
 
 ## Features
@@ -30,7 +28,7 @@ Live demo: [https://barcodediy.com](https://barcodediy.com)
 1. Clone the repository:
 
    ```
-   git clone https://github.com/LeonZeng919/barcode-generator.git
+   git clone https://github.com/Jime-s/barcode.git
    ```
 
 2. Navigate to the project directory:
@@ -81,11 +79,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [JsBarcode](https://github.com/lindell/JsBarcode) - The barcode generation library used in this project
-- [next-shadcn-intl-template](https://github.com/LeonZeng919/next-shadcn-intl-template) - The template used as a base for this project
 - All contributors who have helped to improve this project
 
 ## Contact
 
-Leon Zeng - [@leonzeng2024](https://x.com/leonzeng2024)
-
-Project Link: [https://github.com/LeonZeng919/barcode-generator](https://github.com/LeonZeng919/barcode-generator)
+Project Link: [https://github.com/Jime-s/barcode](https://github.com/Jime-s/barcode)

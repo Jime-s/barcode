@@ -26,7 +26,7 @@ export function SiteHeader({ locale, codeFormat }: SiteHeaderProps) {
         </div>
         <div className="flex items-center space-x-4">
           <Link
-            href="https://github.com/LeonZeng919/barcode-generator"
+            href="https://github.com/Jime-s/barcode"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:text-primary"
